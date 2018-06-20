@@ -5,8 +5,8 @@
 ## 比赛成绩
 
 - 2018-02-08  AUC: 0.9764  B榜 **Rank 2**（Stacking：Catboost、Xgboost、LightGBM、Adaboost、RF etc.）
-- 2018-02-07  AUC: 0.9589  A榜 **Rank 3** （Weight Average：0.65 * Catboost + 0.35 * XGBoost）
-- 2018-01-21  AUC: 0.9733  **半程冠军**     （Single model：Catboost）
+- 2018-02-07  AUC: 0.9589  A榜 **Rank 3**（Weight Average：0.65 * Catboost + 0.35 * XGBoost）
+- 2018-01-21  AUC: 0.9733  **半程 冠军**    （Single model：Catboost）
 
 ## 赛题简介
 
